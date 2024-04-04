@@ -26,7 +26,7 @@ h2 {
 
 .header-onion-soup{
   
-  background-image: url(/lab-css-recipes-clone-es/french-soup/images/soup.jpg);
+  background-image: url(../images/soup.jpg);
   height: 550px;
   background-size: cover;
   background-position: center;

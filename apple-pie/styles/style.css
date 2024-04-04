@@ -25,7 +25,7 @@ h2 {
 }
 
 .header-apple-pie {
-  background-image: url(/lab-css-recipes-clone-es/apple-pie/images/apple-pie.jpg);
+  background-image: url(../images/apple-pie.jpg);
   height: 550px;
   background-size: cover;
   background-position: inherit;
